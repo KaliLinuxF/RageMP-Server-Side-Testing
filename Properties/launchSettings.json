@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Client": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Toxa\\Desktop\\Just Role Play - Rage MP\\server-files\\ragemp-server.exe",
+      "workingDirectory": "C:\\Users\\Toxa\\Desktop\\Just Role Play - Rage MP\\server-files"
+    }
+  }
+}

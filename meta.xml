@@ -1,0 +1,4 @@
+﻿<meta>
+  <info name="gamemode" type="script" />
+  <script src="Client.dll" />
+</meta>

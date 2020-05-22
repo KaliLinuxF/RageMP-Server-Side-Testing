@@ -1,0 +1,11 @@
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\bin\Debug\netcoreapp2.0\meta.xml
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\bin\Debug\netcoreapp2.0\Client.deps.json
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\bin\Debug\netcoreapp2.0\Client.dll
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\obj\Debug\netcoreapp2.0\Client.csprojAssemblyReference.cache
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfoInputs.cache
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\obj\Debug\netcoreapp2.0\Client.AssemblyInfo.cs
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\bin\Debug\netcoreapp2.0\Client.pdb
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\bin\Debug\netcoreapp2.0\Bootstrapper.dll
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\obj\Debug\netcoreapp2.0\Client.csproj.CopyComplete
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\obj\Debug\netcoreapp2.0\Client.dll
+C:\Users\Toxa\Desktop\Just Role Play - Rage MP\Client\obj\Debug\netcoreapp2.0\Client.pdb
